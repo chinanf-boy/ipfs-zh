@@ -15,10 +15,10 @@
 
 - [ ] [0. readme.md](./readme.md)
 - [x] [1. contribute.md](./CONTRIBUTE.zh.md)
-- [ ] [2. endeavours-index.md](./ENDEAVOURS-INDEX.zh.md)
-- [ ] [3. implementation_status.md](./IMPLEMENTATION_STATUS.zh.md)
+- [x] [2. endeavours-index.md](./ENDEAVOURS-INDEX.zh.md)
+- [x] [3. implementation_status.md](./IMPLEMENTATION_STATUS.zh.md)
 - [ ] [4. roadmap-to-1.0.0.md](./ROADMAP-TO-1.0.0.zh.md)
-- [ ] [5. ./papers/readme.md](././papers/README.zh.md)
+- [x] [5. ./papers/readme.md](././papers/README.zh.md)
 
 
 
