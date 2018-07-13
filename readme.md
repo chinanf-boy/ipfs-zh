@@ -9,7 +9,11 @@
 欢迎来到IPFS!为什么不[观看视频演示](https://www.youtube.com/watch?v=8CMxDNuuAiQ)开始?请发布问题和想法<https://discuss.ipfs.io>
 
 
-## 校对中
+## 校对✅
+
+<details>
+
+<summary> info </summary>
 
 - ⏰ 2018 7.12 开始 [github source commit](https://github.com/ipfs/ipfs/tree/26c0494a02e062f751928c9d423e5c64f2a183a7)
 
@@ -22,10 +26,47 @@
 
 - ⏰ 2018 7.13 结束
 
+</details>
+
 ## 目录
 
-<!-- START doctoc -->
-<!-- END doctoc -->
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
+
+- [概观](#%E6%A6%82%E8%A7%82)
+  - [快速摘要](#%E5%BF%AB%E9%80%9F%E6%91%98%E8%A6%81)
+- [IPFS如何运作](#ipfs%E5%A6%82%E4%BD%95%E8%BF%90%E4%BD%9C)
+  - [IPFS论文](#ipfs%E8%AE%BA%E6%96%87)
+  - [IPFS会谈](#ipfs%E4%BC%9A%E8%B0%88)
+- [更多关于IPFS](#%E6%9B%B4%E5%A4%9A%E5%85%B3%E4%BA%8Eipfs)
+  - [IPFS的现状](#ipfs%E7%9A%84%E7%8E%B0%E7%8A%B6)
+  - [Alpha分布](#alpha%E5%88%86%E5%B8%83)
+  - [安全问题和披露](#%E5%AE%89%E5%85%A8%E9%97%AE%E9%A2%98%E5%92%8C%E6%8A%AB%E9%9C%B2)
+- [项目和社区](#%E9%A1%B9%E7%9B%AE%E5%92%8C%E7%A4%BE%E5%8C%BA)
+- [项目链接](#%E9%A1%B9%E7%9B%AE%E9%93%BE%E6%8E%A5)
+  - [协议实现](#%E5%8D%8F%E8%AE%AE%E5%AE%9E%E7%8E%B0)
+  - [API客户端库](#api%E5%AE%A2%E6%88%B7%E7%AB%AF%E5%BA%93)
+  - [项目目录](#%E9%A1%B9%E7%9B%AE%E7%9B%AE%E5%BD%95)
+    - [项目组织](#%E9%A1%B9%E7%9B%AE%E7%BB%84%E7%BB%87)
+    - [得到帮助!](#%E5%BE%97%E5%88%B0%E5%B8%AE%E5%8A%A9)
+    - [文件](#%E6%96%87%E4%BB%B6)
+    - [讨论](#%E8%AE%A8%E8%AE%BA)
+    - [规格讨论](#%E8%A7%84%E6%A0%BC%E8%AE%A8%E8%AE%BA)
+    - [协议实现](#%E5%8D%8F%E8%AE%AE%E5%AE%9E%E7%8E%B0-1)
+    - [API客户端实现](#api%E5%AE%A2%E6%88%B7%E7%AB%AF%E5%AE%9E%E7%8E%B0)
+    - [IPFS GUI](#ipfs-gui)
+    - [IPFS上的应用程序](#ipfs%E4%B8%8A%E7%9A%84%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F)
+    - [社区基础设施](#%E7%A4%BE%E5%8C%BA%E5%9F%BA%E7%A1%80%E8%AE%BE%E6%96%BD)
+    - [参考清单](#%E5%8F%82%E8%80%83%E6%B8%85%E5%8D%95)
+  - [其他社区资源](#%E5%85%B6%E4%BB%96%E7%A4%BE%E5%8C%BA%E8%B5%84%E6%BA%90)
+    - [IPFS聚会](#ipfs%E8%81%9A%E4%BC%9A)
+    - [工具](#%E5%B7%A5%E5%85%B7)
+    - [Forks](#forks)
+    - [实现子模块](#%E5%AE%9E%E7%8E%B0%E5%AD%90%E6%A8%A1%E5%9D%97)
+- [执照](#%E6%89%A7%E7%85%A7)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## 概观
 
@@ -96,7 +137,7 @@ IPFS有一个名称服务:
 
 ## IPFS如何运作
 
-要了解有关IPFS如何工作的更多信息,请查看[相关论文](#ipfs-papers)要么[演讲](#ipfs-talks). 你也可以探索 ipfs[相关规范](https://github.com/ipfs/specs). 
+要了解有关IPFS如何工作的更多信息,请查看[相关论文](#ipfs%E8%AE%BA%E6%96%87)要么[演讲](#ipfs%E4%BC%9A%E8%B0%88). 你也可以探索 ipfs[相关规范](https://github.com/ipfs/specs). 
 
 ### IPFS论文
 
@@ -125,7 +166,7 @@ IPFS项目旨在发展互联网和网络的基础设施,我们从成功的系统
 
 请注意,IPFS正在进行中. 这是一项雄心勃勃的计划,旨在让互联网更加自由,开放,安全,高效. 它建立在众多经过实战考验的分布式系统的好主意之上. 
 
-今天,有一个主要的IPFS协议实现 (在[go-ipfs](https://github.com/ipfs/go-ipfs)) [更多的路上](#protocol-implementations) ([JavaScript](https://github.com/ipfs/js-ipfs),和[python](https://github.com/ipfs/py-ipfs)) . 
+今天,有一个主要的IPFS协议实现 (在[go-ipfs](https://github.com/ipfs/go-ipfs)) [更多的语言实现在路上](#%E5%8D%8F%E8%AE%AE%E5%AE%9E%E7%8E%B0) ([JavaScript](https://github.com/ipfs/js-ipfs),和[python](https://github.com/ipfs/py-ipfs)) . 
 
 ### Alpha分布
 

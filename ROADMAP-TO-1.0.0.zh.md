@@ -7,8 +7,38 @@
 
 <summary> 细节 👋 </summary>
 
-<!-- START doctoc -->
-<!-- END doctoc -->
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
+
+- [描述](#%E6%8F%8F%E8%BF%B0)
+- [里程碑](#%E9%87%8C%E7%A8%8B%E7%A2%91)
+  - [可持续性和治理](#%E5%8F%AF%E6%8C%81%E7%BB%AD%E6%80%A7%E5%92%8C%E6%B2%BB%E7%90%86)
+  - [IPFS用例](#ipfs%E7%94%A8%E4%BE%8B)
+  - [绩效里程碑](#%E7%BB%A9%E6%95%88%E9%87%8C%E7%A8%8B%E7%A2%91)
+  - [开发人员库](#%E5%BC%80%E5%8F%91%E4%BA%BA%E5%91%98%E5%BA%93)
+  - [安全里程碑](#%E5%AE%89%E5%85%A8%E9%87%8C%E7%A8%8B%E7%A2%91)
+  - [网络可扩展性](#%E7%BD%91%E7%BB%9C%E5%8F%AF%E6%89%A9%E5%B1%95%E6%80%A7)
+  - [抛光水平](#%E6%8A%9B%E5%85%89%E6%B0%B4%E5%B9%B3)
+  - [Multiformats](#multiformats)
+  - [libp2p协议](#libp2p%E5%8D%8F%E8%AE%AE)
+  - [比特交换](#%E6%AF%94%E7%89%B9%E4%BA%A4%E6%8D%A2)
+  - [IPFS DHT](#ipfs-dht)
+  - [IPFS pub / sub](#ipfs-pub--sub)
+  - [IPLD](#ipld)
+  - [IPLD数据结构和进口商](#ipld%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%92%8C%E8%BF%9B%E5%8F%A3%E5%95%86)
+  - [IPFS回购](#ipfs%E5%9B%9E%E8%B4%AD)
+  - [IPFS协议和架构](#ipfs%E5%8D%8F%E8%AE%AE%E5%92%8C%E6%9E%B6%E6%9E%84)
+  - [去实施IPFS](#%E5%8E%BB%E5%AE%9E%E6%96%BDipfs)
+  - [JFS实现IPFS](#jfs%E5%AE%9E%E7%8E%B0ipfs)
+  - [IPFS直接在浏览器上](#ipfs%E7%9B%B4%E6%8E%A5%E5%9C%A8%E6%B5%8F%E8%A7%88%E5%99%A8%E4%B8%8A)
+  - [IPFS节点管理控制台 (webui)](#ipfs%E8%8A%82%E7%82%B9%E7%AE%A1%E7%90%86%E6%8E%A7%E5%88%B6%E5%8F%B0-webui)
+  - [HTTP到IPFS网关](#http%E5%88%B0ipfs%E7%BD%91%E5%85%B3)
+  - [IPFS分配](#ipfs%E5%88%86%E9%85%8D)
+  - [安全](#%E5%AE%89%E5%85%A8)
+  - [IPFS博客和时事通讯](#ipfs%E5%8D%9A%E5%AE%A2%E5%92%8C%E6%97%B6%E4%BA%8B%E9%80%9A%E8%AE%AF)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 </details>
 
