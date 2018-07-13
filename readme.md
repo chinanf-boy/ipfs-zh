@@ -152,7 +152,7 @@ IPFS有一个名称服务:
 -   2014-07-21  -[IPFS: 永久网络](https://www.youtube.com/watch?v=Fa4pckodM9g)在[Sourcegraph](https://sourcegraph.com/) (第一次公开演讲) 
 -   2015-02-20  -[IPFS Alpha演示](https://www.youtube.com/watch?v=8CMxDNuuAiQ)
 -   2015-06-03  -[IPFS动手介绍](https://www.youtube.com/watch?v=h73bd9b5pPA)在Ethereum SV Meetup
--   **2015-10-22  -[IPFS: 分布式永久Web](https://www.youtube.com/watch?v=HUVmypx9HGI)斯坦福大学研讨会 (项目最佳概述) **
+-   **2015-10-22  -[IPFS: 分布式永久Web](https://www.youtube.com/watch?v=HUVmypx9HGI)斯坦福大学研讨会 (项目最佳概述)**
 -   2016-09-14  -[带IPFS的分布式应用程序](https://www.youtube.com/watch?v=jONZtXMu03w)
 -   2016-10-22  -[分散网络,IPFS和Filecoin](https://www.youtube.com/watch?v=cU-n_m-snxQ)
 
