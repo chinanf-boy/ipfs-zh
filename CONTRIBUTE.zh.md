@@ -11,7 +11,7 @@
 
 ### 帮助实现
 
-请帮助[各种实现](README.md#implementations)的开发,或者开始另一个!
+请帮助[各种实现](README.md#协议实现)的开发,或者开始另一个!
 
 还有许多其他存储库是IPFS的一部分,列在[项目目录](https://github.com/ipfs/ipfs/blob/master/project-directory.md). `hack in`并帮助. 
 
