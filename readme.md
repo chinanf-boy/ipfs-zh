@@ -14,7 +14,7 @@
 - ⏰ 2018 7.12 开始
 
 - [ ] [0. readme.md](./readme.md)
-- [ ] [1. contribute.md](./CONTRIBUTE.zh.md)
+- [x] [1. contribute.md](./CONTRIBUTE.zh.md)
 - [ ] [2. endeavours-index.md](./ENDEAVOURS-INDEX.zh.md)
 - [ ] [3. implementation_status.md](./IMPLEMENTATION_STATUS.zh.md)
 - [ ] [4. roadmap-to-1.0.0.md](./ROADMAP-TO-1.0.0.zh.md)
