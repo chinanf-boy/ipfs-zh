@@ -28,6 +28,8 @@
 
 </details>
 
+[更多中文🇨🇳翻译](https://github.com/chinanf-boy/chinese-translate-list)
+
 ## 目录
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
