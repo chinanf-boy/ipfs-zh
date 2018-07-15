@@ -1,5 +1,10 @@
 
-# IPFS是分布式Web
+# IPFS是分布式Web [![explain]][source] [![translate-svg]][translate-list]
+
+[explain]: http://llever.com/explain.svg
+[source]: https://github.com/chinanf-boy/ipfs-tour
+[translate-svg]: http://llever.com/translate.svg
+[translate-list]: https://github.com/chinanf-boy/chinese-translate-list
 
 > 一种点对点超媒体协议,使网络更快,更安全,更开放. 
 
