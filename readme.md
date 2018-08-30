@@ -14,7 +14,21 @@
 欢迎来到IPFS!为什么不[观看视频演示](https://www.youtube.com/watch?v=8CMxDNuuAiQ)开始?请发布问题和想法<https://discuss.ipfs.io>
 
 
-## 校对✅
+## 校对 ✅
+
+<!-- doc-templite START generated -->
+<!-- time = '2018 7.3' -->
+<!-- repo = 'ipfs/ipfs' -->
+<!-- commit = '26c0494a02e062f751928c9d423e5c64f2a183a7' -->
+翻译的原文 | 与日期 | 最新更新 | 更多
+---|---|---|---
+[commit] | ⏰ 2018 7.3 | ![last] | [中文翻译][translate-list]
+
+[last]: https://img.shields.io/github/last-commit/ipfs/ipfs.svg
+[commit]: https://github.com/ipfs/ipfs/tree/26c0494a02e062f751928c9d423e5c64f2a183a7
+
+<!-- doc-templite END generated -->
+
 
 <details>
 
